@@ -6,3 +6,4 @@ statsmodels
 pmdarima
 pyportfolioopt
 seaborn
+darts
